@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @JoJoJo-JoJoJo
+- 👋 Hi, I’m Jonah.
 - 👀 I’m interested in Maths, Physics, Music, and all areas of programming!
 - 🌱 I’m currently learning Front End Web Development.
-- 💞️ I’m looking to collaborate on general projects for now, to build experience.
+- 💞️ I’m looking to start building my own front-end projects for now to build experience.
 - 📫 How to reach me: I guess just github for now?
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I taught myself how to read when I was 2!
 
 <!---
