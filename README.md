@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonah.
 - 👀 I’m interested in Maths, Physics, Music, and all areas of programming!
-- 🌱 I’m currently learning Front End Web Development --> (HTML, CSS and JS done so far, going on to do React then TS next).
+- 🌱 I’m currently learning Front End Web Development --> (HTML, CSS, JS and React learnt so far, going on to do TS then probably Next JS).
 - 💞️ I’m looking to start building my own front-end projects for now to build experience.
 - 📫 How to reach me: I guess just github for now?
 - 😄 Pronouns: He/Him.
