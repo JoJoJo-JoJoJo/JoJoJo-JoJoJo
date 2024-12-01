@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I taught myself how to read when I was 2!
 
-#Languages learnt so far:
+Languages learnt so far:
 - HTML
 - CSS, SCSS & Tailwind
 - JavaScript, TypeScript & React
