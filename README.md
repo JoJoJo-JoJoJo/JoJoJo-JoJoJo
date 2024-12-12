@@ -7,9 +7,9 @@
 - ⚡ Fun fact: I taught myself how to read when I was 2!
 
 Languages learnt so far:
-- HTML
+- HTML5
 - CSS, SCSS & Tailwind
-- JavaScript, TypeScript & React
+- JavaScript, TypeScript & React (& D3)
 
 <!---
 JoJoJo-JoJoJo/JoJoJo-JoJoJo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
