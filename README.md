@@ -1,16 +1,18 @@
 - 👋 Hi, I’m JoJo.
 - 👀 I’m interested in Maths, Physics, Computer Science, Music, and all areas of programming!
-- 🌱 I'm currently learning both PostgreSQL and Nodejs; trying to experiment with combining the two for my next mini-project.
-- 💞️ I’m looking to start building my own full-stack projects in the near future. A portfolio project soon would benefit me too...
+- 🌱 I'm currently participating in a 28-day-long project with a team of 7 others to build a full-stack anonymous suggestion box platform.
+- 💞️ I’m looking to write-up the first prototype for my A-level CS project over the summer, and also start on my portfolio at some point.
 - 📫 How to reach me: GitHub (reach out to me on GitHub if you need an email).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I taught myself how to read when I was 2!
 
-Skillset so far:
-- HTML5
+Skillset:
+- HTML
 - CSS, SCSS & Tailwind
-- JavaScript & TypeScript, React, D3
-- (Aiming for) MPERN stack (i.e. both Mongo and Postgres)
+- JavaScript & TypeScript, React (up to v18), D3
+- NextJS
+- MongoDB + Prisma (working towards)
+- PERN stack (working towards)
 
 <!---
 JoJoJo-JoJoJo/JoJoJo-JoJoJo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
