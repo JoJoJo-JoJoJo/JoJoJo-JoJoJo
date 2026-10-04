@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I love dad jokes**
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/1KtmCNGSDsBb-kVvZaHU_SEFeGaIU1nouXVENdaMqb2I/edit?usp=drive_link](https://docs.google.com/document/d/1KtmCNGSDsBb-kVvZaHU_SEFeGaIU1nouXVENdaMqb2I/edit?usp=drive_link)**
+- 📄 Know about my experiences on **[my resume](https://docs.google.com/document/d/1KtmCNGSDsBb-kVvZaHU_SEFeGaIU1nouXVENdaMqb2I/edit?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
