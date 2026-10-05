@@ -4,7 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=JoJoJo-JoJoJo&style=flat-square&color=blue)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JoJoJo-JoJoJo" alt="JoJoJo-JoJoJo" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=JoJoJo-JoJoJo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)   
 
 - 🔭 I'm currently working on **Globe Trotter, a community-oriented geography learning platform**
 
