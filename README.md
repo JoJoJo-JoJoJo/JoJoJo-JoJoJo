@@ -2,7 +2,7 @@
 
 ### An experienced Typescript developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JoJoJo-JoJoJo&label=Profile views&color=0e75b6&style=flat" alt="JoJoJo-JoJoJo" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=JoJoJo-JoJoJo&style=flat-square&color=blue)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JoJoJo-JoJoJo" alt="JoJoJo-JoJoJo" /></a> </p>
 
