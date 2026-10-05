@@ -4,7 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=JoJoJo-JoJoJo&style=flat-square&color=blue)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JoJoJo-JoJoJo&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-unserori.vercel.app/?username=JoJoJo-JoJoJo&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I'm currently working on **Globe Trotter, a community-oriented geography learning platform**
 
